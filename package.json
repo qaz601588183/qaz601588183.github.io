@@ -1,0 +1,16 @@
+{
+  "name": "my-press",
+  "version": "1.0.0",
+  "description": "oh!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "author": "sunyu",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
