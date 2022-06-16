@@ -2,7 +2,7 @@
 set -e
 
 # 打包生成静态文件
-npm run docs:build
+npm run build
 
 # 进入打包好的文件夹
 cd docs/.vuepress/dist
@@ -14,6 +14,6 @@ git commit -m 'deploy'
 
 # 覆盖式地将本地仓库发布至github，因为发布不需要保留历史记录
 # 格式为：git push -f git@github.com:'用户名'/'仓库名'.git master
-git push -f git@github.com:qaz601588183/qaz601588183.github.io.git
+git push -f git@github.com:qaz601588183/qaz601588183.github.io.git master
 
 cd -

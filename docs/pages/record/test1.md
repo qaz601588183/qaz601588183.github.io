@@ -115,7 +115,7 @@ git clone https://github.com/anncwb/vue-vben-admin.git
 
 ```bash
 
-cd vue-vben-admin
+cd vue.md-vben-admin
 
 
 pnpm install

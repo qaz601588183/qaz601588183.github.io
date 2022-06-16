@@ -4,7 +4,8 @@ heroImage: ./tianqi.png
 heroText: yu的前端记录
 tagline: 一点一滴都是进步
 actionText: 马上进入 →
-actionLink: /pages/home/test1.md
+
+actionLink: /pages/record/html.md
 features:
 
 - title: 简洁至上
