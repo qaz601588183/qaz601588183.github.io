@@ -9,9 +9,9 @@ export default defineUserConfig({
     style: '@vuepress-reco/style-default',
     logo: '/logo.png',
     author: 'sunyu',
-    // docsRepo: 'https://github.com/vuepress-reco/vuepress-theme-reco-next',
-    // docsBranch: 'main',
-    // docsDir: 'example',
+    docsRepo: 'https://github.com/vuepress-reco/vuepress-theme-reco-next',
+    docsBranch: 'main',
+    docsDir: 'example',
     // autoSetCategory: true,         // 自动设置分类
     // autoAddCategoryToNavbar: true,  // 自动将首页、分类和标签添加至头部导航条
     lastUpdatedText: '',
@@ -20,10 +20,7 @@ export default defineUserConfig({
       '/blogs/record/': [
         {
           text: '记录',
-          children: [
-            { text: '2022-06-17', link: '/blogs/record/2022-06-17.md' },
-            { text: '2022-06-18', link: '/blogs/record/2022-06-18.md' },
-          ]
+          children: ['2022-06-17', '2022-06-18']
         }
       ]
     },
@@ -35,7 +32,7 @@ export default defineUserConfig({
           children: [
             { text: 'vuepress-reco', link: '/docs/theme-reco/theme' }
           ]
-        },
+        }
       ]
   })
   // debug: true,

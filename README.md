@@ -7,7 +7,7 @@ modules:
 bannerBrand:
   heroImage: /logo.png
   heroImageStyle:
-    maxWidth: '300px'
+    maxWidth: '200px'
     width: '100%'
     display: block
     margin: '0 auto 2rem'
@@ -17,7 +17,7 @@ bannerBrand:
   tagline: 一点一滴都是进步
   buttons:
     - { text: 记录, link: '/blogs/record/2022-06-17' }
-    - { text: 面试 , link: '/blogs/interviewQuestions/Html' , type: primary }
+    - { text: 面试 , link: '/blogs/interviewQuestions/Html' , type: 'plain' }
 isShowTitleInHome: true
 
 features:
