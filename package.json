@@ -1,19 +1,17 @@
 {
-  "name": "my-press",
-  "version": "1.0.0",
-  "description": "oh!",
-  "main": "index.js",
-  "scripts": {
-    "dev": "vuepress dev docs --temp .temp",
-    "build": "vuepress build docs",
-    "deploy": "bash deploy.sh"
-  },
-  "author": "sunyu",
+  "name": "vuepress-theme-reco-demo",
+  "version": "2.0.0",
+  "description": "Demo for vuepress-theme-reco@2.x.",
+  "repository": "git@github.com:recoluan/vuepress-theme-reco-demo.git",
+  "author": "reco_luan <recoluan@outlook.com>",
   "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.9.7"
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
   },
   "dependencies": {
-    "vuepress-theme-reco": "^1.6.13"
+    "vuepress": "2.0.0-beta.46",
+    "vuepress-theme-reco": "2.0.0-beta.16"
   }
 }
