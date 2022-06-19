@@ -1,0 +1,1 @@
+const e={key:"v-a88e041c",path:"/docs/xiaoye/javaScriptBase.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"js\u57FA\u7840",slug:"js\u57FA\u7840",children:[]}],git:{createdTime:1655647905e3,updatedTime:1655647905e3,contributors:[{name:"sunyu",email:"601588183@qq.com",commits:1}]},filePathRelative:"docs/xiaoye/javaScriptBase.md"};export{e as data};

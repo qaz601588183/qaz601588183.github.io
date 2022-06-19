@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e}from"./app.127dbe13.js";const o={},c=e("h2",{id:"",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#","aria-hidden":"true"},"#")],-1),n=[c];function s(_,d){return t(),r("div",null,n)}var h=a(o,[["render",s],["__file","antdPro.html.vue"]]);export{h as default};
