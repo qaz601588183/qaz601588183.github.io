@@ -22,15 +22,22 @@ export default defineUserConfig({
           text: '记录',
           children: ['2022-06-17', '2022-06-18']
         }
+      ],
+      '/docs/cabbageReact/': [
+        {
+          text: '白菜react',
+          children: ['reactBase', 'antdPro']
+        }
       ]
     },
     navbar:
       [
         { text: 'Home', link: '/' },
         {
-          text: 'Docs',
+          text: 'bilibili',
           children: [
-            { text: 'vuepress-reco', link: '/docs/theme-reco/theme' }
+            { text: '白菜react', link: '/docs/cabbageReact/antdPro' },
+            { text: '小野森森', link: '/docs/xiaoye/javaScriptBase' }
           ]
         }
       ]

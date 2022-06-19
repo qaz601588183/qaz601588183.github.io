@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="177848f8-0626-45b8-b776-2e70758127aa" name="变更" comment="init">
+    <list default="true" id="177848f8-0626-45b8-b776-2e70758127aa" name="变更" comment="feat:更新侧边栏显示错误">
+      <change afterPath="$PROJECT_DIR$/blogs/record/2022-06-19.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cabbageReact/antdPro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cabbageReact/reactBase.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/xiaoye/javaScriptBase.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/record/2022-06-17.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/record/2022-06-17.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/record/2022-06-18.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/record/2022-06-18.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deloy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deloy.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +41,9 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/yu-blog/.vuepress/public&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/Extra Icons/lib/ij-extra-icons-1.69.3.203.jar&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.1.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -49,7 +56,14 @@
       <recent name="C:\Users\Administrator\Desktop\qaz601588183.github.io\docs" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="BashSupport Pro.deloy.sh">
+    <configuration name="deloy.sh" type="BashProRunConfiguration" temporary="true">
+      <option name="scriptPath" value="$PROJECT_DIR$/deloy.sh" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/qaz601588183.github.io/.vuepress/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -62,6 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="BashSupport Pro.deloy.sh" />
+        <item itemvalue="JavaScript 调试.index.html" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -75,7 +91,16 @@
       <option name="presentableId" value="Default" />
       <updated>1655463780324</updated>
       <workItem from="1655463782995" duration="4203000" />
-      <workItem from="1655477096964" duration="1567000" />
+      <workItem from="1655477096964" duration="2005000" />
+      <workItem from="1655533559486" duration="1365000" />
+      <workItem from="1655534948981" duration="37000" />
+      <workItem from="1655534998008" duration="1357000" />
+      <workItem from="1655537298347" duration="5397000" />
+      <workItem from="1655545035760" duration="2628000" />
+      <workItem from="1655644268525" duration="11000" />
+      <workItem from="1655644355309" duration="19000" />
+      <workItem from="1655644394412" duration="9000" />
+      <workItem from="1655644413312" duration="2329000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1655477149329</created>
@@ -91,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655477221345</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat:更新侧边栏显示错误">
+      <created>1655478712950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655478712951</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="feat:更新侧边栏显示错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat:更新侧边栏显示错误" />
   </component>
 </project>
